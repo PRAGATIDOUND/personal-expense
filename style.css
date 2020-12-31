@@ -1,0 +1,43 @@
+.navbar {
+    background-color: #fdb827;
+    border-bottom-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+}
+.input-group-text {
+    background-color:#fdb827;
+    border-color: black;
+}
+.form-control{
+    border-color: black;
+}
+.btn {
+    background-color:#fdb827 ;
+    border-color:black;
+    display: block;
+}
+.container {
+    padding-top: 2.5rem;
+    background-color: #f8e4b7;
+    padding-bottom: 2.5rem;
+    border-bottom-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+    margin-top: 2rem;
+    
+}
+@media (min-width: 576px).list-group{
+    max-width: 540px;
+}
+
+.list-group{
+    margin-top: 2rem;
+}
+.list-group-item {
+    background-color: #f8e4b7;
+   margin-right: 4rem;
+   margin-left: 4rem;
+   border-bottom-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+}
+button.btn.btn-outline-danger.btn-sm {
+float: right;
+}
