@@ -28,6 +28,7 @@
     max-width: 540px;
 }
 
+
 .list-group{
     margin-top: 2rem;
 }
@@ -40,4 +41,12 @@
 }
 button.btn.btn-outline-danger.btn-sm {
 float: right;
+}
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   max-width: 200px ;
+    padding-top: 1rem;
+
 }
